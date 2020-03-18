@@ -1,1 +1,1 @@
-https://github.com/JuKyYoon/JuKyYoon.github.io
+JuKyYoon.github.io
